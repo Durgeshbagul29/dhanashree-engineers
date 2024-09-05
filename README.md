@@ -1,5 +1,4 @@
 # dhanashree-engineers
-![Screenshot 2024-08-31 144626](https://github.com/user-attachments/assets/d28257cd-2562-4d51-8341-7e74a01f20a4)
 ![Screenshot 2024-06-19 232115](https://github.com/user-attachments/assets/1e5005f4-6a71-4168-a381-184520357e0e)
 ![Screenshot 2024-06-19 232659](https://github.com/user-attachments/assets/b7bd9187-a628-4ca8-9e56-769dc2fd611d)
 ![Screenshot 2024-06-19 232727](https://github.com/user-attachments/assets/d84d7279-fd04-4e56-b4a5-ce7b8a2f5ac6)
